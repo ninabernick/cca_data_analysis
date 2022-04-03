@@ -1,0 +1,16 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "n_per_ftr2",
+        "n_per_ftr1",
+        "exa_mix",
+        "ayb",
+        "aya",
+        "ax",
+        "rxb",
+        "rxa",
+        "pyb",
+        "pya",
+        "px",
+        "mix_component"
+    ]
+}
